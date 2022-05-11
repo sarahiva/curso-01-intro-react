@@ -17,4 +17,7 @@
 ### Sección 09, 10 y 11
 [Hooks - Generales - useReducer - useContext](https://github.com/sarahiva/curso-react-05-hookApp).
 
+### Sección 14
+[heroesApp](https://github.com/sarahiva/curso-react-07-heroesApp).
+
 
